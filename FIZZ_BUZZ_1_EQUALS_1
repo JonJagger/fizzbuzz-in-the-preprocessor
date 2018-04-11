@@ -1,1 +1,0 @@
-const char * fizz_buzz_1 = STR(FIZZ_BUZZ(1));
