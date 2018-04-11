@@ -1,0 +1,10 @@
+Your challenge is to write and test FizzBuzz using only the C pre-processor.
+
+Numbers that are exact multiples of 3 but not 5 become Fizz.
+  eg FIZZ_BUZZ(3) --> Fizz
+Numbers that are exact multiples of 5 but not 3 become Buzz.
+  eg FIZZ_BUZZ(5) --> Buzz
+Numbers that are exact multiples of 3 and 5 become FizzBuzz.
+  eg FIZZ_BUZZ(15) --> FizzBuzz
+Numbers that are multiples of neither 3 nor 5 stay themself.
+  eg FIZZ_BUZZ(1) --> 1
